@@ -88,3 +88,82 @@ carbon emissions as compared to the baseline scenarios viz. displacement of grid
 export power produced & supplied from the co-generation unit.
 Thus, the project activity scopes help to contribute to emission reductions as well as SDG targets
 creating a sustainable pathway. 
+___________
+MP-01 : 01/01/2013-31/12/2024
+
+QTY: 448200
+
+ISSUE DATE: 22/07/2025
+_______________
+Serial Number: 0001-000001-014007-UCR-CoU-IN-471-01012013-31122013
+
+Vintage Year: 2013
+
+Quantity: 14007
+_________________
+Serial Number: 0001-014008-030710-UCR-CoU-IN-471-01012014-31122014
+
+Vintage Year: 2014
+
+Quantity: 16703
+_____________
+Serial Number: 0001-030711-040993-UCR-CoU-IN-471-01012015-31122015
+
+Vintage Year: 2015
+
+Quantity: 10283
+____________
+Serial Number: 0001-040994-044555-UCR-CoU-IN-471-01012016-31122016
+
+Vintage Year: 2016
+
+Quantity: 3562
+____________
+Serial Number: 0001-044556-053983-UCR-CoU-IN-471-01012017-31122017
+
+Vintage Year: 2017
+
+Quantity: 9428
+________________
+Serial Number: 0001-053984-075743-UCR-CoU-IN-471-01012018-31122018
+
+Vintage Year: 2018
+
+Quantity: 21760
+______________
+Serial Number: 0001-075744-088773-UCR-CoU-IN-471-01012019-31122019
+
+Vintage Year: 2019
+
+Quantity: 13030
+______________
+Serial Number: 0001-088774-102615-UCR-CoU-IN-471-01012020-31122020
+
+Vintage Year: 2020
+
+Quantity: 13842
+_______________
+Serial Number: 0001-102616-133163-UCR-CoU-IN-471-01012021-31122021
+
+Vintage Year: 2021
+
+Quantity: 30548
+___________
+Serial Number: 0001-133164-257070-UCR-CoU-IN-471-01012022-31122022
+
+Vintage Year: 2022
+
+Quantity: 123907
+______________
+Serial Number: 0001-257071-382348-UCR-CoU-IN-471-01012023-31122023
+
+Vintage Year: 2023
+
+Quantity: 125278
+_____________
+Serial Number: 0001-382349-448200-UCR-CoU-IN-471-01012024-31122024
+
+Vintage Year: 2024
+
+Quantity: 65852
+______________
